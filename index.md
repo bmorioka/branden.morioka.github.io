@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/bmorioka/branden.morioka.g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![Image](/Screen%20Shot%202018-06-25%20at%2010.32.30%20PM.png)
+![Image](branden.morioka.github.io/Screen Shot 2018-06-25 at 10.32.30 PM.png)
 
 
 
