@@ -6,7 +6,7 @@ https://www.linkedin.com/in/branden-morioka/ - automatic!
 
 Welcome, and thanks for stopping by! I'm currently a Sophomore at MIT pursuing a BS in Mechanical Engineering & Computer Science. Keep scrolling to find out about some of my past personal projects. 
 
-
+hi
 ### Projects
 
 ### Education
