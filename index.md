@@ -7,11 +7,11 @@ Welcome, and thanks for stopping by! I'm currently a Sophomore at MIT pursuing a
 
 ## Projects
 
-### DC Brushless Motor
+**DC Brushless Motor**
 
-### Smart Mirror
+**Smart Mirror**
 
-### Sand Sifter
+**Sand Sifter**
   
   
 hi
