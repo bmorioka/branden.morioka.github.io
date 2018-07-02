@@ -1,17 +1,13 @@
-## About Meee
+## About Me
 ![Image](/Screen Shot 2018-06-25 at 10.32.30 PM.png){:height="200px" width="200px"}
-
-You can use the [editor on GitHub](https://github.com/bmorioka/branden.morioka.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-
-
 
 ### Projects
 
 ### Education
+
+You can use the [editor on GitHub](https://github.com/bmorioka/branden.morioka.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
