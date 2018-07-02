@@ -1,7 +1,8 @@
 ## About Me
 ![Image](/Screen Shot 2018-06-25 at 10.32.30 PM.png){:height="200px" width="200px"}
 
-[LinkedIn](www.linkedin.com/in/branden-morioka)
+[LinkedIn Profile](www.linkedin.com/in/branden-morioka)
+
 Welcome, and thanks for stopping by! I'm currently a Sophomore at MIT pursuing a BS in Mechanical Engineering & Computer Science. Keep scrolling to find out about some of my past personal projects. 
 
 ### Projects
