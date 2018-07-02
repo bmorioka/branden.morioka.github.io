@@ -1,7 +1,7 @@
 ## About Me
 ![Image](/Screen Shot 2018-06-25 at 10.32.30 PM.png){:height="200px" width="200px"}
 
-![Image](/head shot.png){:height="200px" width="200px"}
+![Image](/head shot3.png){:height="200px" width="200px"}
 
 [LinkedIn Profile](https://www.linkedin.com/in/branden-morioka/)
 
