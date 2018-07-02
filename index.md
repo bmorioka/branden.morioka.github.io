@@ -1,4 +1,4 @@
-## About Meee
+## About Me
 
 You can use the [editor on GitHub](https://github.com/bmorioka/branden.morioka.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
