@@ -14,8 +14,7 @@ Welcome, and thanks for stopping by! I'm currently a Sophomore at MIT pursuing a
 **Smart Mirror**
 
 **Sand Sifter**
-  
-hiio
+
 
 
 ### Education
