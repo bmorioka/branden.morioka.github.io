@@ -25,8 +25,6 @@ built, laser cut it, programed it in python
 
 **Sand Sifter**
 
-hii
-
 
 
 ### Education
