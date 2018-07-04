@@ -10,7 +10,7 @@ Welcome, and thanks for stopping by! I'm currently a Sophomore at MIT pursuing a
 ## Projects
 **Custom 3D printed Watch
 
-![Image](/pictures/watch1 crop.png){:height="278px" width="200px"}
+![Image](/pictures/watch1 crop.png){:height="500px" width="200px"}
 
 **DC Brushless Motor**
 
