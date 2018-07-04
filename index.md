@@ -14,8 +14,8 @@ Welcome, and thanks for stopping by! I'm currently a Sophomore at MIT pursuing a
 
 Designed the watch housing in SolidWorks. Printed it out on a MonoPrice Mini printer. Retro fit the housing with an existing watch strap. The watch movement is intentionally exposed so that the viewer can appreciate the inner mechanism.  
 
-![Image](/pictures/watch2.jpg){:height="265px" width="200px"}
-![Image](/pictures/watch3.jpg){:height="265px" width="200px"}
+![Image](/pictures/watch2.jpg){:height="200px" width="265px"}
+![Image](/pictures/watch3.jpg){:height="200px" width="265px"}
 
 **DC Brushless Motor**
 
