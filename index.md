@@ -10,7 +10,7 @@ Welcome, and thanks for stopping by! I'm currently a Sophomore at MIT pursuing a
 ## Projects
 **Custom 3D printed Watch**
 
-![Image](/pictures/watch1 crop.png){:height="265px" width="200px"}
+![Image](/pictures/watch1 crop.png){:height="715px" width="540px"}
 
 Designed my own custom watch in SolidWorks. Printed it out on a MonoPrice Mini printer. Retro fit the housing with an existing watch strap. The watch movement is intentionally exposed so that the viewer can appreciate the inner mechanism.  
 
@@ -19,7 +19,7 @@ Designed my own custom watch in SolidWorks. Printed it out on a MonoPrice Mini p
 
 ![Image](/pictures/watch6.jpg){:height="269px" width="358px"}
 
-![Image](/pictures/watch.gif){:height="338px" width="226px"}
+![Image](/pictures/watch.gif){:height="807px" width="540px"}
 
 should embedd a 3d cad file of the watch assembly
 
