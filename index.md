@@ -2,7 +2,7 @@
 
 ![Image](/head shot3.png){:height="270px" width="270px"}
 
-[LinkedIn Profile](https://www.linkedin.com/in/branden-morioka/)
+[LinkedIn Profile](https://www.linkedin.com/in/branden-morioka/) //////
 [Facebook Profile](https://www.facebook.com/branden.morioka)
 
 Welcome, and thanks for stopping by! I'm currently a Sophomore at MIT pursuing a BS in Mechanical Engineering & Computer Science. Keep scrolling to find out about some of my past personal projects! 
