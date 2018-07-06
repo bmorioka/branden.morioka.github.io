@@ -30,7 +30,6 @@ built, laser cut it, programed it in python
 **Smart Mirror**
 
 **Sand Sifter**
-Hi
 
 ### Education
 
