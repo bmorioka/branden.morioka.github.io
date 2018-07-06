@@ -19,7 +19,6 @@ Designed my own custom watch in SolidWorks. Printed it out on a MonoPrice Mini p
 ![Image](/pictures/watch2.jpg){:height="200px" width="265px"}
 ![Image](/pictures/watch3.jpg){:height="200px" width="265px"}
 
-
 should embedd a 3d cad file of the watch assembly
 
 **DC Brushless Motor**
