@@ -14,10 +14,11 @@ Welcome, and thanks for stopping by! I'm currently a Sophomore at MIT pursuing a
 
 Designed my own custom watch in SolidWorks. Printed it out on a MonoPrice Mini printer. Retro fit the housing with an existing watch strap. The watch movement is intentionally exposed so that the viewer can appreciate the inner mechanism.  
 
+![Image](/pictures/watch.gif){:height="338px" width="226px"}
+
 ![Image](/pictures/watch2.jpg){:height="200px" width="265px"}
 ![Image](/pictures/watch3.jpg){:height="200px" width="265px"}
 
-![Image](/pictures/watch.gif){:height="338px" width="226px"}
 
 should embedd a 3d cad file of the watch assembly
 
