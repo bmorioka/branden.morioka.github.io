@@ -29,6 +29,8 @@ should embedd a 3d cad file of the watch assembly
 
 Designed and built a brushless DC motor. Used SolidWorks to CAD an assembly which I then fabricated. Laser cut the acrylic parts and made my own electromagnets by winding copper wire around a ferrite core. The motor has two main components: a shaft with four permanent magnets and the six electromagnets. The six electromagnets are wired to and controlled by a Raspberry Pi. Using Python, I programmed the electromagnets to sequentially attract and repel the permanent magnets located in the shaft. This causes the motor to spin. 
 
+Below is a diagram of how the motor works. The concentric circles represent the electromagnets while the red cross represents the permanent magnets on the shaft. The pink text represents the electromagnet changing polarity. Each permanent magnet is both attracted and repelled by the neighboring electromagnets which cause the shaft to rotate.  
+
 ![Image](/pictures/motor.gif){:height="540px" width="540px"}
 
 
