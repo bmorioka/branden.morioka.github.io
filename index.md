@@ -8,7 +8,7 @@
 Welcome, and thanks for stopping by! I'm currently a Sophomore at MIT pursuing a BS in Mechanical Engineering & Computer Science. Keep scrolling to find out about some of my past personal projects! 
 
 ## Projects
-**Custom 3D printed Watch**
+## Custom 3D printed Watch
 
 ![Image](/pictures/watch1 crop.png){:height="715px" width="540px"}
 
@@ -23,7 +23,7 @@ Designed my own custom watch in SolidWorks. Printed it on a MonoPrice Mini print
 
 should embedd a 3d cad file of the watch assembly
 
-**DC Brushless Motor**
+## DC Brushless Motor
 
 ![Image](/pictures/motor3.gif){:height="960px" width="540px"}
 
