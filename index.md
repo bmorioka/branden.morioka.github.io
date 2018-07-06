@@ -27,7 +27,6 @@ should embedd a 3d cad file of the watch assembly
 
 ![Image](/pictures/motor3.gif){:height="960px" width="540px"}
 
-hi
 
 **Smart Mirror**
 
