@@ -25,7 +25,8 @@ should embedd a 3d cad file of the watch assembly
 
 **DC Brushless Motor**
 
-built, laser cut it, programed it in python
+![Image](/pictures/motor3.gif){:height="960px" width="540px"}
+
 
 **Smart Mirror**
 
