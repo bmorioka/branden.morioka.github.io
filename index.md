@@ -36,6 +36,8 @@ Below is a diagram of how the motor works. The concentric circles represent the 
 
 
 **Smart Mirror**
+![Image](/pictures/smart mirror.gif){:height="540px" width="540px"}
+
 
 **Sand Sifter**
 
