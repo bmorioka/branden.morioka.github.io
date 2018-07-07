@@ -7,7 +7,7 @@
 
 Welcome, and thanks for stopping by! I'm currently a Sophomore at MIT pursuing a BS in Mechanical Engineering & Computer Science. Keep scrolling to find out about some of my past personal projects! 
 
-## Projects
+## -------------------Projects-------------------
 ## Custom 3D printed Watch
 
 ![Image](/pictures/watch1 crop.png){:height="715px" width="540px"}
