@@ -40,6 +40,7 @@ Below is a diagram of how the motor works. The concentric circles represent the 
 
 
 **Sand Sifter**
+hi
 
 ### Education
 
