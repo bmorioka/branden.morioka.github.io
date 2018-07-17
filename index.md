@@ -14,8 +14,7 @@ Welcome, and thanks for stopping by! I'm currently a Sophomore at MIT pursuing a
 
 Designed my own custom watch in SolidWorks. Printed it on a MonoPrice Mini printer. Retro fit the housing with an existing watch strap. The watch movement is intentionally exposed so that the viewer can appreciate the inner mechanism.  
 
-![Image](/pictures/watch2.jpg){:height="302px" width="270px"}
-![Image](/pictures/watch3.jpg){:height="302px" width="270px"}
+![Image](/pictures/watch7.png){:height="300px" width="540px"}
 
 ![Image](/pictures/watch6.jpg){:height="405px" width="540px"}
 
@@ -46,7 +45,7 @@ Designed and built a Smart Mirror. A Smart Mirror is a concealed screen which di
 
 From there, I fabricated the wooden housing and created the one-way mirror using glass and a film. I discretely mounted the monitor within the wooden frame using custom 3D printed fixtures. (show the CAD)
 
-![Image](/pictures/smart mirror5.png){:height="332px" width="270px"}
+![Image](/pictures/smart mirror7.png){:height="234px" width="540px"}
 
 
 **Sand Sifter**
