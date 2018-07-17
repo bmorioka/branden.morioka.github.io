@@ -17,7 +17,7 @@ Designed my own custom watch in SolidWorks. Printed it on a MonoPrice Mini print
 ![Image](/pictures/watch2.jpg){:height="200px" width="179px"}
 ![Image](/pictures/watch3.jpg){:height="200px" width="179px"}
 
-![Image](/pictures/watch6.jpg){:height="269px" width="358px"}
+![Image](/pictures/watch6.jpg){:height="405px" width="540px"}
 
 ![Image](/pictures/watch.gif){:height="780px" width="540px"}
 
