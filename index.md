@@ -36,7 +36,8 @@ Below is a diagram of how the motor works. The concentric circles represent the 
 Insert CAD a cad model
 
 **Smart Mirror**
-![Image](/pictures/smart mirror.gif){:height="536px" width="358px"}
+
+![Image](/pictures/smart mirror.gif){:height="641px" width="540px"}
 
 Designed and built a Smart Mirror. A Smart Mirror is a concealed screen which displays behind a one-way mirror. The design makes the image float in space without borders. This is similar in concept to the TV screens mounted behind mirrors in fancy hotel bathrooms. My Smart Mirror comprises of a Raspberry Pi enabled computer monitor mounted behind a one-way mirror. I CAD designed the assembly on Onshape, a cloud-based CAD software. 
 
