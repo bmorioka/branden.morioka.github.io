@@ -43,7 +43,7 @@ Designed and built a Smart Mirror. A Smart Mirror is a concealed screen which di
 ![Image](/pictures/smart mirror3.png){:height="540px" width="540px"}
 ![Image](/pictures/smart mirror4.png){:height="540px" width="540px"}
 
-From there, I fabricated the wooden housing and created the one-way mirror using glass and a film. I discretely mounted the monitor within the wooden frame using custom 3D printed fixtures. (show the CAD)
+From there, I fabricated the wooden housing and created the one-way mirror using glass and a film. I discretely mounted the monitor within the wooden frame using custom 3D printed fixtures.
 
 ![Image](/pictures/smart mirror7.png){:height="234px" width="540px"}
 
