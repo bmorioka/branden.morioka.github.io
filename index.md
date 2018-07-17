@@ -21,6 +21,7 @@ Designed my own custom watch in SolidWorks. Printed it on a MonoPrice Mini print
 ![Image](/pictures/watch.gif){:height="780px" width="540px"}
 
 should embedd a 3d cad file of the watch assembly
+Designed a watch strap from one continuous print, flexible, with pin joints
 
 ## DC Brushless Motor
 
