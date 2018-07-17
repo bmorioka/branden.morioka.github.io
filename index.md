@@ -50,7 +50,7 @@ From there, I fabricated the wooden housing and created the one-way mirror using
 
 
 **Sand Sifter**
-hi
+Designed and built a bike-powered sand sifter. My friend and I built the device out of my garage using an array of hand held power tools. We sourced recycled material – an old bike, a wooden pallet, and scrap wood – to build with. The sand sifter consists of a bike-powered rotating mesh barrel mounted on a platform. The user shovels in sand into the machine, and as the barrel rotates, clean sand falls through the mesh while trash goes out the other end. The bike-sifter assembly disassembles and is portable.  
 
 ### Education
 
