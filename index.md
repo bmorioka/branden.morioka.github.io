@@ -7,7 +7,7 @@
 
 Welcome, and thanks for stopping by! I'm currently a Sophomore at MIT pursuing a BS in Mechanical Engineering & Computer Science. Keep scrolling to find out about some of my past personal projects! 
 
-## -------------------Projects-------------------
+## Projects
 ## Custom 3D printed Watch
 
 ![Image](/pictures/watch1 crop.png){:height="715px" width="540px"}
@@ -33,10 +33,19 @@ Below is a diagram of how the motor works. The concentric circles represent the 
 
 ![Image](/pictures/motor.gif){:height="540px" width="540px"}
 
-
+Insert CAD a cad model
 
 **Smart Mirror**
-![Image](/pictures/smart mirror.gif){:height="540px" width="540px"}
+![Image](/pictures/smart mirror.gif){:height="536px" width="358px"}
+
+Designed and built a Smart Mirror. A Smart Mirror is a concealed screen which displays behind a one-way mirror. The design makes the image float in space without borders. This is similar in concept to the TV screens mounted behind mirrors in fancy hotel bathrooms. My Smart Mirror comprises of a Raspberry Pi enabled computer monitor mounted behind a one-way mirror. I CAD designed the assembly on Onshape, a cloud-based CAD software. 
+
+![Image](/pictures/smart mirror3.png){:height="540px" width="540px"}
+![Image](/pictures/smart mirror4.png){:height="540px" width="540px"}
+
+From there, I fabricated the wooden housing and created the one-way mirror using glass and a film. I discretely mounted the monitor within the wooden frame using custom 3D printed fixtures. (show the CAD)
+
+
 
 
 **Sand Sifter**
