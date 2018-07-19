@@ -48,6 +48,8 @@ From there, I fabricated the wooden housing and created the one-way mirror using
 
 ![Image](/pictures/smart mirror7.png){:height="234px" width="540px"}
 
+## Remote Control Wheelchair
+
 
 ## Sand Sifter
 
