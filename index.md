@@ -8,7 +8,7 @@
 Welcome, and thanks for stopping by! I'm currently a Sophomore at MIT pursuing a BS in Mechanical Engineering & Computer Science. Keep scrolling to find out about some of my past personal projects! 
 
 ## Projects
-## Custom 3D printed Watch
+## Custom 3D Printed Watch
 
 ![Image](/pictures/watch1 crop.png){:height="715px" width="540px"}
 
@@ -21,7 +21,16 @@ Designed my own custom watch in SolidWorks. Printed it on a MonoPrice Mini print
 ![Image](/pictures/watch.gif){:height="780px" width="540px"}
 
 should embedd a 3d cad file of the watch assembly
-Designed a watch strap from one continuous print, flexible, with pin joints
+
+## Custom 3D Printed Watch Version 2
+Decided to make the watch entirely 3D printed. This entailed designing a 3D printed watch strap, a difficult obstacle I avoided in Version 1. The issue came in making a flexible watch strap from rigid 3D printed plastic. Using SolidWorks, I engineered a unique hybrid link-pin design, which combines the link and pin into one part. This design is similar to a standard removable link and pin strap found on most metal watches except combined into one.  (show picture) 
+
+I made this design decision in order to eliminate the manual assembly of the strap after printing. This hybrid link-pin design allows individual links to be virtually mated in a SolidWorks assembly. (Show picture) From there, the 3D printer prints the links out as one completed and interlocked watch strap. With the hybrid link-pin design, I can effortless assemble an entire strap with just a couple mouse clicks and then let the printer do the work. This is a unique perspective on manufacturing - designing parts that assemble as they are printed/made - and is something I’m currently investigating.  
+
+Here is what the strap looks like as its printing. You can see the printer making individual links that are interconnected. 
+
+Here is the completed strap. As you can see it is very flexible! I calibrated the clearance between the pin and the through hole such that each link could freely rotate. 
+
 
 ## DC Brushless Motor
 
