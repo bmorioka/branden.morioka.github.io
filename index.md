@@ -29,7 +29,7 @@ I made this design decision in order to eliminate the manual assembly of the str
 
 Here is what the strap looks like as its printing. You can see the printer making individual links that are interconnected. 
 
-Here is the completed strap. As you can see it is very flexible! I calibrated the clearance between the pin and the through hole such that each link could freely rotate. 
+Here is the completed strap. As you can see it is very flexible! I calibrated the clearance between the pin and the through hole such that each link can freely rotate. 
 
 
 ## DC Brushless Motor
