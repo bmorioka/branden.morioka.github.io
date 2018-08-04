@@ -59,55 +59,17 @@ I fabricated the wooden housing and created the one-way mirror using glass and a
 
 ## Remote Control Wheelchair
 
+(Add picture of wheelchair)
+
+Transformed a regular wheelchair into a remote controlled one. Created it in order to test the viability of an autonomous, person-following, wheelchair concept, which could be used for medical applications. I installed motors on the chair using custom mounts that I machined using a mill and lathe. I then attached sprockets and added a chain drive to power the wheels. To enable remote control capabilities, I installed a TI cRIO. Here is the remote controlled wheelchair in operation. 
+
+(Show pictures of using mill and lathe)
+
+(Show pictures of the motors used)
 
 ## Sand Sifter
 
 Designed and built a bike-powered sand sifter. My friend and I built the device out of my garage using an array of hand held power tools. We sourced recycled material – an old bike, a wooden pallet, and scrap wood – to build with. The sand sifter consists of a bike-powered rotating mesh barrel mounted on a platform. The user shovels in sand into the machine, and as the barrel rotates, clean sand falls through the mesh while trash goes out the other end. The bike-sifter assembly disassembles and is portable.  
-
-### Education
-
-You can use the [editor on GitHub](https://github.com/bmorioka/branden.morioka.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bmorioka/branden.morioka.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-hello
-
-
-
-
-
-
-
 
 
 
