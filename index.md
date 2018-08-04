@@ -59,7 +59,7 @@ I fabricated the wooden housing and created the one-way mirror using glass and a
 
 ## Remote Control Wheelchair
 
-(Add picture of wheelchair)
+![Image](/pictures/wheelchair1.gif){:height="234px" width="540px"}
 
 Transformed a regular wheelchair into a remote controlled one. Created it in order to test the viability of an autonomous, person-following, wheelchair concept, which could be used for medical applications. I installed motors on the chair using custom mounts that I machined using a mill and lathe. I then attached sprockets and added a chain drive to power the wheels. To enable remote control capabilities, I installed a TI cRIO. Here is the remote controlled wheelchair in operation. 
 
