@@ -30,9 +30,13 @@ Decided to make the watch entirely 3D printed. This entailed designing a 3D prin
 
 I made this design decision in order to eliminate the manual assembly of the strap after printing. This hybrid link-pin design allows individual links to be virtually mated in a SolidWorks assembly. (Show picture) From there, the 3D printer prints the links out as one completed and interlocked watch strap. With the hybrid link-pin design, I can effortless assemble an entire strap with just a couple mouse clicks and then let the printer do the work. This is a unique perspective on manufacturing - designing parts that assemble as they are printed/made - and is something I’m currently investigating.  
 
-Here is what the strap looks like as its printing. You can see the printer making individual links that are interconnected. 
+Here is what the strap looks like as its printing. You can see the printer making individual links that are interconnected.
+
+![Image](/pictures/watch10.gif){:height="790px" width="540px"}
 
 Here is the completed strap. As you can see it is very flexible! I calibrated the clearance between the pin and the through hole such that each link can freely rotate. 
+
+![Image](/pictures/watch9.JPG){:height="720px" width="540px"}
 
 ![Image](/pictures/white.png){:height="200px" width="540px"}
 
