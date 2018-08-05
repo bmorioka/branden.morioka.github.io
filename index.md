@@ -23,6 +23,8 @@ Designed my own custom watch in SolidWorks. Printed it on a MonoPrice Mini print
 
 should embedd a 3d cad file of the watch assembly
 
+![Image](/pictures/white.png){:height="200px" width="540px"}
+
 ## Custom 3D Printed Watch Version 2
 Decided to make the watch entirely 3D printed. This entailed designing a 3D printed watch strap, a difficult obstacle I avoided in Version 1. The issue came in making a flexible watch strap from rigid 3D printed plastic. Using SolidWorks, I engineered a unique hybrid link-pin design, which combines the link and pin into one part. This design is similar to a standard removable link and pin strap found on most metal watches except combined into one.  (show picture) 
 
@@ -32,7 +34,7 @@ Here is what the strap looks like as its printing. You can see the printer makin
 
 Here is the completed strap. As you can see it is very flexible! I calibrated the clearance between the pin and the through hole such that each link can freely rotate. 
 
-
+![Image](/pictures/white.png){:height="200px" width="540px"}
 
 ## DC Brushless Motor
 
@@ -46,7 +48,7 @@ Below is a diagram of how the motor works. The concentric circles represent the 
 
 Insert CAD a cad model
 
-
+![Image](/pictures/white.png){:height="200px" width="540px"}
 
 ## Smart Mirror
 
@@ -61,8 +63,7 @@ I fabricated the wooden housing and created the one-way mirror using glass and a
 
 ![Image](/pictures/smart mirror7.png){:height="234px" width="540px"}
 
-
-
+![Image](/pictures/white.png){:height="200px" width="540px"}
 
 ## Remote Control Wheelchair
 
@@ -80,8 +81,7 @@ Used a mini mill to machine slots in custom motor mounts.
 
 ![Image](/pictures/wheelchair4.png){:height="565px" width="540px"}
 
-
-
+![Image](/pictures/white.png){:height="200px" width="540px"}
 
 ## Sand Sifter
 
@@ -95,5 +95,4 @@ Designed and built a bike-powered sand sifter. My friend and I built the device 
 
 If you're still interested in finding out more, feel free to shoot me an email! bmorioka@mit.edu
 
-hello
 
