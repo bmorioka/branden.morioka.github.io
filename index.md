@@ -65,9 +65,13 @@ Transformed a regular wheelchair into a remote controlled one. Created it in ord
 
 ![Image](/pictures/wheelchair2.gif){:height="373px" width="540px"}
 
-(Show pictures of using mill and lathe)
+Used a lathe to fabricate custom bearings for the wheelchair.
 
-(Show pictures of the motors used)
+![Image](/pictures/wheelchair3.png){:height="349px" width="540px"}
+
+Used a mini mill to machine slots in custom motor mounts.
+
+![Image](/pictures/wheelchair4.png){:height="565px" width="540px"}
 
 ## Sand Sifter
 
