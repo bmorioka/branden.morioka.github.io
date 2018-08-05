@@ -38,6 +38,10 @@ Here is the completed strap. As you can see it is very flexible! I calibrated th
 
 ![Image](/pictures/watch9.JPG){:height="720px" width="540px"}
 
+![Image](/pictures/watch11.gif){:height="811px" width="540px"}
+
+![Image](/pictures/watch12.gif){:height="388px" width="540px"}
+
 ![Image](/pictures/white.png){:height="200px" width="540px"}
 
 ## DC Brushless Motor
