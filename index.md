@@ -8,6 +8,7 @@
 Welcome, and thanks for stopping by! I'm currently a Sophomore at MIT pursuing a BS in Mechanical Engineering & Computer Science. Keep scrolling to find out about some of my past personal projects! 
 
 ## Projects
+
 ## Custom 3D Printed Watch
 
 ![Image](/pictures/watch1 crop.png){:height="715px" width="540px"}
@@ -32,6 +33,7 @@ Here is what the strap looks like as its printing. You can see the printer makin
 Here is the completed strap. As you can see it is very flexible! I calibrated the clearance between the pin and the through hole such that each link can freely rotate. 
 
 
+
 ## DC Brushless Motor
 
 ![Image](/pictures/motor3.gif){:height="960px" width="540px"}
@@ -43,6 +45,8 @@ Below is a diagram of how the motor works. The concentric circles represent the 
 ![Image](/pictures/motor.gif){:height="540px" width="540px"}
 
 Insert CAD a cad model
+
+
 
 ## Smart Mirror
 
@@ -56,6 +60,9 @@ Designed and built a Smart Mirror. A Smart Mirror is a concealed screen which di
 I fabricated the wooden housing and created the one-way mirror using glass and a film. I discretely mounted the monitor within the wooden frame using custom 3D printed fixtures.
 
 ![Image](/pictures/smart mirror7.png){:height="234px" width="540px"}
+
+
+
 
 ## Remote Control Wheelchair
 
@@ -73,6 +80,9 @@ Used a mini mill to machine slots in custom motor mounts.
 
 ![Image](/pictures/wheelchair4.png){:height="565px" width="540px"}
 
+
+
+
 ## Sand Sifter
 
 ![Image](/pictures/Sandsifter.gif){:height="527px" width="540px"}
@@ -85,5 +95,4 @@ Designed and built a bike-powered sand sifter. My friend and I built the device 
 
 If you're still interested in finding out more, feel free to shoot me an email! bmorioka@mit.edu
 
-hello
 
