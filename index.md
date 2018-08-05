@@ -36,8 +36,6 @@ Here is what the strap looks like as its printing. You can see the printer makin
 
 Here is the completed strap. As you can see it is very flexible! I calibrated the clearance between the pin and the through hole such that each link can freely rotate. 
 
-![Image](/pictures/watch9.JPG){:height="720px" width="540px"}
-
 ![Image](/pictures/watch11.gif){:height="811px" width="540px"}
 
 ![Image](/pictures/watch12.gif){:height="388px" width="540px"}
