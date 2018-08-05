@@ -87,12 +87,10 @@ Used a mini mill to machine slots in custom motor mounts.
 
 ![Image](/pictures/Sandsifter.gif){:height="527px" width="540px"}
 
-Designed and built a bike-powered sand sifter. My friend and I built the device out of my garage using an array of hand held power tools. We sourced recycled material – an old bike, a wooden pallet, and scrap wood – to build with. The sand sifter consists of a bike-powered rotating mesh barrel mounted on a platform. The user shovels in sand into the machine, and as the barrel rotates, clean sand falls through the mesh while trash goes out the other end. The bike-sifter assembly disassembles and is portable.  
+Designed and built a bike-powered sand sifter. My friend and I constructed the device out of my garage using an array of hand held power tools. We sourced recycled material – an old bike, a wooden pallet, and scrap wood – to build with. The sand sifter consists of a bike-powered rotating mesh barrel mounted on a platform. The user shovels in sand into the machine, and as the barrel rotates, clean sand falls through the mesh while trash goes out the other end. The bike-sifter assembly disassembles and is portable.  
 
 ![Image](/pictures/sandsifter2.JPG){:height="582px" width="540px"}
 
 ![Image](/pictures/sandsifter4.JPG){:height="405px" width="540px"}
 
 If you're still interested in finding out more, feel free to shoot me an email! bmorioka@mit.edu
-
-hello
