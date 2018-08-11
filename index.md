@@ -51,6 +51,10 @@ Here is the completed strap. As you can see it is very flexible! I calibrated th
 
 ![Image](/pictures/white.png){:height="200px" width="540px"}
 
+Here is the completed watch!
+
+![Image](/pictures/watch19.gif){:height="746px" width="540px"}
+
 ## DC Brushless Motor
 
 ![Image](/pictures/motor3.gif){:height="960px" width="540px"}
@@ -60,8 +64,6 @@ Designed and built a brushless DC motor. Used SolidWorks to CAD an assembly whic
 Below is a diagram of how the motor works. The concentric circles represent the electromagnets while the red cross represents the permanent magnets on the shaft. The pink text represents the electromagnet changing polarity. Each permanent magnet is both attracted and repelled by the neighboring electromagnets which cause the shaft to rotate.  
 
 ![Image](/pictures/motor.gif){:height="540px" width="540px"}
-
-Insert CAD a cad model
 
 ![Image](/pictures/white.png){:height="200px" width="540px"}
 
