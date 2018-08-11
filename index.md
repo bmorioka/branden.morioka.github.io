@@ -19,8 +19,6 @@ Designed my own custom watch in SolidWorks. Printed it on a MonoPrice Mini print
 
 ![Image](/pictures/watch6.jpg){:height="405px" width="540px"}
 
-![Image](/pictures/watch.gif){:height="780px" width="540px"}
-
 ![Image](/pictures/white.png){:height="200px" width="540px"}
 
 ## Custom 3D Printed Watch Version 2
@@ -49,11 +47,11 @@ Here is the completed strap. As you can see it is very flexible! I calibrated th
 
 ![Image](/pictures/watch11.gif){:height="811px" width="540px"}
 
-![Image](/pictures/white.png){:height="200px" width="540px"}
-
 Here is the completed watch!
 
 ![Image](/pictures/watch19.gif){:height="746px" width="540px"}
+
+![Image](/pictures/white.png){:height="200px" width="540px"}
 
 ## DC Brushless Motor
 
