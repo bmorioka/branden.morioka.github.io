@@ -1,6 +1,6 @@
 ## About Me
 
-![Image](/head shot3.png){:height="270px" width="270px"}
+![Image](/head shot4.png){:height="270px" width="270px"}
 
 [LinkedIn Profile     ](https://www.linkedin.com/in/branden-morioka/) ||
 [     Facebook Profile](https://www.facebook.com/branden.morioka)
