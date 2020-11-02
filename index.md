@@ -5,7 +5,7 @@
 [LinkedIn Profile     ](https://www.linkedin.com/in/branden-morioka/) ||
 [     Facebook Profile](https://www.facebook.com/branden.morioka)
 
-Welcome, and thanks for stopping by! I'm a Junior at MIT pursuing a BS in Mechanical Engineering & Computer Science. I'm currently taking this semester off to work full time at Apple on the iPhone/ Watch Product Design Team. Keep scrolling to find out about some of my past personal projects! 
+Welcome, and thanks for stopping by! I'm a Senior at MIT pursuing a BS in Mechanical Engineering with Computer Science (2A-6). Keep scrolling to find out about some of my past personal projects! 
 
 ## Independent Projects
 
