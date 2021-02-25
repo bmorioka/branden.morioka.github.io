@@ -108,4 +108,10 @@ Designed and built a bike-powered sand sifter. My friend and I constructed the d
 
 ![Image](/pictures/sandsifter4.JPG){:height="405px" width="540px"}
 
+## Independent Projects
+
+## Automatic Plant Watering Device
+
+
+
 If you're still interested in finding out more, feel free to shoot me an email! bmorioka@mit.edu
