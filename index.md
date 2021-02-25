@@ -108,9 +108,11 @@ Designed and built a bike-powered sand sifter. My friend and I constructed the d
 
 ![Image](/pictures/sandsifter4.JPG){:height="405px" width="540px"}
 
-## Independent Projects
+## Group Projects
 
 ## Automatic Plant Watering Device
+
+Designed an automatic plant watering system for an embedded systems class final group project. The device automatically waters your plants when the soil is outside of the temperature and humidity bounds. There is a integrated capactitive moisture sensor, water pump and led screen built into the compact prototype housing that I designed. 
 
 ![Image](/pictures/IMG_7554.JPG){:height="720px" width="540px"}
 
