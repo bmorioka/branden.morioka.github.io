@@ -5,7 +5,7 @@
 [LinkedIn Profile     ](https://www.linkedin.com/in/branden-morioka/) ||
 [     Facebook Profile](https://www.facebook.com/branden.morioka)
 
-Welcome, and thanks for stopping by! I'm a recent graduate of MIT with a BS in Mechanical Engineering with Computer Science concentration (Course 2A-6). Keep scrolling to find out about some of my past personal projects! 
+Welcome, and thanks for stopping by! I'm a recent graduate of MIT with a BS in Engineering (Course 2-A: Mechanical Engineering with Computer Science concentration). Keep scrolling to find out about some of my past personal projects! 
 
 ## Independent Projects
 
